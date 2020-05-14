@@ -8,6 +8,10 @@ Delayed-Proof-of-Work, which protects HUSH with the hashrate security of Bitcoin
 
 The main "full node" of hush. Downloads the full blockchain which is currently a few GB :)
 
+## HushChat
+
+A new "chat GUI" encrypted messenger interface to Hush wallets.
+
 ## ITM Attack
 
 A shielded address linkability metadata leakage attack
