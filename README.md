@@ -8,6 +8,14 @@ Delayed-Proof-of-Work, which protects HUSH with the hashrate security of Bitcoin
 
 The main "full node" of hush. Downloads the full blockchain which is currently a few GB :)
 
+## ITM Attack
+
+A shielded address linkability metadata leakage attack
+
+## Metaverse Metadata Attack
+
+The concept of simulating the history of a blockchain to make it leak metadata via
+consensus oracle attack.
 
 ## SDA
 
@@ -26,6 +34,14 @@ https://github.com/MyHush/SilentDragonLite
 SilentDragon GUI Full Node Wallet
 
 https://github.com/MyHush/SilentDragon
+
+## Sietch
+
+Privacy tech invented by Hush that protects against new attacks described on https://attackingzcash.com
+including the ITM attack in particular and Metaverse Metadata attacks in general.
+
+More details: https://github.com/MyHush/sietch
+
 
 ## TADDR
 
