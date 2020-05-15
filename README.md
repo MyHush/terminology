@@ -16,6 +16,10 @@ A new "chat GUI" encrypted messenger interface to Hush wallets.
 
 A shielded address linkability metadata leakage attack
 
+## Komodo (KMD)
+
+The very first Zcash Protocol genesis block to be mined, before ZEC mainnet launched.
+
 ## Metaverse Metadata Attack
 
 The concept of simulating the history of a blockchain to make it leak metadata via
@@ -69,4 +73,4 @@ z address aka shielded adddress which looks like `zs1....` on HUSH
 
 ## ZEC
 
-Zcash mainnet (milktoast privacy)
+Zcash mainnet 
