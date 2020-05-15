@@ -20,6 +20,10 @@ A shielded address linkability metadata leakage attack
 
 The very first Zcash Protocol genesis block to be mined, before ZEC mainnet launched.
 
+## mainnet
+
+The production network of a blockchain, as opposed to a testnet. It is similar to the `master` branch in Git.
+
 ## Metaverse Metadata Attack
 
 The concept of simulating the history of a blockchain to make it leak metadata via
