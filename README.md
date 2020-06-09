@@ -1,5 +1,10 @@
 # Hush Terminology Learns You Good!
 
+## Autoshielding
+
+A feature where Hush wallets will automatically send funds to a zaddr from transparent addresses, on first use.
+This protects funds, giving them privacy, without users needing to understand why or do the operation themselves.
+
 ## DPoW
 
 Delayed-Proof-of-Work, which protects HUSH with the hashrate security of Bitcoin.
