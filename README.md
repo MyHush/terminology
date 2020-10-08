@@ -42,6 +42,11 @@ consensus oracle attack.
 
 The latest generation of shielded addresses (zaddrs) which are fast and have many provable guarantees about certain potential bugs existing.
 
+## Sapling Consolidation
+
+An advanced feature originally developed by ZER which was ported to HUSH and improved in various ways, such as by adding Sietch support and reducing
+metadata leakage. It actively "consolidates" many ZUTXOs into single and hence more efficient-to-spend ZUTXOs, which makes wallets faster and also protects against dusting attacks.
+
 ## Sprout
 
 The original generation of shielded adddresses (zaddrs) which had many bugs, and were replaced with a new implementation that did not suffer
