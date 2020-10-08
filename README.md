@@ -38,6 +38,16 @@ The production network of a blockchain, as opposed to a testnet. It is similar t
 The concept of simulating the history of a blockchain to make it leak metadata via
 consensus oracle attack.
 
+## Sapling
+
+The latest generation of shielded addresses (zaddrs) which are fast and have many provable guarantees about certain potential bugs existing.
+
+## Sprout
+
+The original generation of shielded adddresses (zaddrs) which had many bugs, and were replaced with a new implementation that did not suffer
+from inflation attacks.
+
+
 ## SDA
 
 SilentDragonAndroid GUI mobile wallet
