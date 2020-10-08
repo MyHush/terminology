@@ -13,6 +13,11 @@ The technical term for newly mined coins, which have no transaction history.
 
 Delayed-Proof-of-Work, which protects HUSH with the hashrate security of Bitcoin.
 
+## HIP
+
+Hush Improvement Proposal [hips](https://github.com/myhush/hips)
+
+
 ## hushd
 
 The main "full node" of hush. Downloads the full blockchain which is currently a few GB :)
